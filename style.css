@@ -79,3 +79,23 @@ section {
     color: #D18A9F;
     margin-top: 12px;
 }
+#contact a {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 12px 22px;
+    background-color: #713044;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+#contact a:hover {
+    background-color: #A83D5B;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+    color: #C9AAB4;
+}

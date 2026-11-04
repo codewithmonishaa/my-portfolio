@@ -99,3 +99,21 @@ footer {
     padding: 20px;
     color: #C9AAB4;
 }
+@media (max-width: 600px) {
+    body {
+        padding: 25px 16px;
+    }
+
+    nav {
+        justify-content: center;
+        gap: 18px;
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+
+    section {
+        padding: 18px;
+    }
+}

@@ -29,3 +29,35 @@ p {
     font-size: 17px;
     line-height: 1.7;
 }
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-bottom: 60px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #713044;
+}
+
+nav h2 {
+    margin: 0;
+    color: #D18A9F;
+}
+
+nav a {
+    color: #F8EDEE;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+nav a:hover {
+    color: #D18A9F;
+}
+
+section {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #28121B;
+    border-radius: 12px;
+}

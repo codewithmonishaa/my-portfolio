@@ -61,3 +61,21 @@ section {
     background-color: #28121B;
     border-radius: 12px;
 }
+.project-card {
+    background-color: #351824;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 12px;
+    border: 1px solid #713044;
+}
+
+.project-card h3 {
+    color: #D18A9F;
+    margin-bottom: 10px;
+}
+
+.project-card span {
+    display: inline-block;
+    color: #D18A9F;
+    margin-top: 12px;
+}

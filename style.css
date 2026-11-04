@@ -6,26 +6,26 @@
 }
 
 body {
-    background-color: #121212;
-    color: white;
+    background-color: #16090D;
+    color: #F8EDEE;
     font-family: Arial, sans-serif;
     padding: 40px 20px;
 }
 
 h1 {
-    color: #d9a6ff;
+    color: #C77A91;
     font-size: 36px;
     margin-bottom: 15px;
 }
 
 h2 {
-    color: #d9a6ff;
+    color: #A83D5B;
     margin-top: 35px;
     margin-bottom: 15px;
 }
 
 p {
-    color: #cccccc;
+    color: #E2C9D0;
     font-size: 17px;
     line-height: 1.7;
 }

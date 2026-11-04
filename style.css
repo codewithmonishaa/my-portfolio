@@ -117,3 +117,12 @@ footer {
         padding: 18px;
     }
 }
+.site-header {
+    padding: 20px 40px;
+}
+
+.logo img {
+    width: 55px;
+    height: 55px;
+    object-fit: contain;
+}
